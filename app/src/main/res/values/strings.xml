@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">RecycleView_03_Agung</string>
+    <string name="player_name">PlayerName</string>
+    <string name="description">Description</string>
+</resources>
